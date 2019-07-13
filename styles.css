@@ -1,0 +1,51 @@
+body{
+  background-color: black ;
+
+ }
+ p{
+   font-family: "Helvetica Neue", "Arial",  sans-serif;
+  font-style: italic;
+  font-size: 20px;
+  color: white;
+ }
+ h1{
+   font-size: 50px;
+   color: orange;
+   font-style:italic;
+ }
+
+ h2{
+   font-size: 30px;
+   color:tomato;
+
+ }
+ ol{
+   color: tomato;
+ }
+ lebel
+ {
+   color: #FFEAC2;
+   font-style: italic;
+ }
+ a{
+   color: yellow;
+ }
+ input{
+   background-color: gray;
+
+ }
+  hr{
+    background-color: black;
+    border-style: dotted none none none;
+    border-color: white;
+    border-width: 6px;
+    width: 4%;
+  }
+
+/*for changing background color of classes and their images*/
+.smartphone{
+  background-color: green;
+}
+.PC{
+  background-color: yellow;
+}
